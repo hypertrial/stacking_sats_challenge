@@ -1,4 +1,4 @@
-# Stacking-Sats
+# Stacking Sats
 Resources for Hypertrial’s Stacking Sats Challenge
 
 # 🧠 Challenge Overview
